@@ -5,8 +5,8 @@ from PyQt5.QtCore import Qt, pyqtSlot
 from PyQt5.QtGui import QIcon, QFont
 import os
 from datetime import datetime
-from modules.server import FileServer
-from modules.utils import format_size, get_local_ip
+from server import FileServer
+from utils import format_size, get_local_ip
 
 class ServerGUI(QMainWindow):
     def __init__(self):
