@@ -2,7 +2,7 @@
 
 A high-performance HTTP file server with a modern GUI interface, optimized for fast file transfers and built with Python. This application allows you to easily share files across your local network with an emphasis on speed and efficiency.
 
-![Server GUI Screenshot](screenshot.png) `<!-- You should add a screenshot of your GUI here -->`
+![Server GUI Screenshot](screenshot.png) 
 
 ## Features
 
